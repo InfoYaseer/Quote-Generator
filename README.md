@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/quate-genarator-web%20app(api)/
+- Live Site: https://infoyaseer.github.io/Quote-Generator/
 - Source Code: This repository
